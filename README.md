@@ -29,4 +29,6 @@ Here are some ideas to get you started:
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+Side Project:
+1. [Resume Analyzer Website](https://resume-analyzer-demo.vercel.app/)
 
