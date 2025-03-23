@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 Side Project:
-1. [Resume Analyzer Website](https://resume-analyzer-demo.vercel.app/)
+1. Resume Analyzer Website
+     - [Frontend with Mock Data only](https://resume-analyzer-demo.vercel.app/)
+     - [Full Live Version with Backend](https://resume-analyzer-react.onrender.com/)
 
